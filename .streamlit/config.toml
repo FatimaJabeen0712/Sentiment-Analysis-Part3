@@ -1,0 +1,18 @@
+# Petrol blue and ice white theme (light, high contrast)
+[theme]
+base = "light"
+primaryColor = "#0B5D6E"
+backgroundColor = "#F3FAFC"
+secondaryBackgroundColor = "#E2F0F4"
+textColor = "#0A2A33"
+linkColor = "#0B5D6E"
+borderColor = "#BFD9E0"
+
+[theme.sidebar]
+backgroundColor = "#073B47"
+secondaryBackgroundColor = "#0B5D6E"
+textColor = "#EAF6F9"
+primaryColor = "#8CCBD6"
+
+[client]
+showSidebarNavigation = false
